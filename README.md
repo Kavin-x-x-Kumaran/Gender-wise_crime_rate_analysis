@@ -1,6 +1,4 @@
-# DATA PREPROCESSING REPORT
-
-**Analysis of Juvenile Gender-wise Crime Rates and Total Crime Rates using Data Preprocessing Techniques**
+# Analysis of Juvenile Gender-wise Crime Rates and Total Crime Rates using Data Preprocessing Techniques
 
 *By Kavin Kumaran*
 *MAY 27, 2026*
